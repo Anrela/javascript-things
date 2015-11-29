@@ -19,3 +19,11 @@
   return number * 2;<br>
   };
 </p>
+<p>
+  I can write a function with two parameters, like this:<br>
+  var perimeterBox = function(length, width) {<br>
+  return length*2 + width*2;<br>
+  }<br>
+  perimeterBox(2, 2);
+</p>
+
