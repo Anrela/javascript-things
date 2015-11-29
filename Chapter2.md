@@ -26,4 +26,17 @@
   }<br>
   perimeterBox(2, 2);
 </p>
+<p>
+  I can define global and local variables, like this:<br>
+  var globalVar = "hello";<br>
+  var foo = function() {<br>
+  console.log(globalVar);<br>
+  }<br>
+  var foo2 = function() {<br>
+  var localVar = 2;<br>
+  console.log(localVar);<br>
+  }
+</p>
+</p>
+
 
