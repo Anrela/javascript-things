@@ -13,3 +13,9 @@
   }<br>
   foodDemand('apple');
 </p>
+<p>
+  I can create a function called timesTwo() that takes in a number and returns the number multiplied by two, like this:<br>
+  var timesTwo = function (number) {<br>
+  return number * 2;<br>
+  };
+</p>
