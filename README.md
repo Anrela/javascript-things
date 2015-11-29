@@ -1,6 +1,6 @@
 <h1>Java script basic</h1>
 
-<h2></h2>
+<h2>Chapter 1</h2>
 <p>
   I can write my name within quotes like this: "Anrela"
 </p>
