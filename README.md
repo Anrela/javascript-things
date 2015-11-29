@@ -72,3 +72,13 @@
   I can create a variable, like this:<br>
   var myAge = 24;
 </p>
+<p>
+  I can declare a variable myName and change the value of nyName, like this:<br>
+  var myName = "Anre";<br>
+  myName = "Anrela";
+</p>
+<p>
+  I can pring the length of string variable myColor, like this:<br>
+  var myColor = "Red";<br>
+  console.log(myColor.length);
+</p>
