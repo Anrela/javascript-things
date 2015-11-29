@@ -49,4 +49,26 @@
   console.log("This strings is realy short");<br>
   }
 </p>
+<p>
+  I can use if/else condition, like this:<br>
+  if (5 < 2) {<br>
+  console.log("This string a short");<br>
+  }<br>
+  else {<br>
+  console.log("It was nice work!");<br>
+  }
+</p>
+<p>
+  I can use modulo to print the remainder of the following equations, like this:<br>
+  console.log(14%3);<br>
+  console.log(99%8);<br>
+  console.log(11%3);
+</p>
+<p>
+  I can find 4th up to and including the 7th letter of the string, like this:<br>
+  "wonderful day".substring(3, 7);
+</p>
+<p>
+  I can create a variable, like this:<br>
+  var myAge = 24;
 </p>
