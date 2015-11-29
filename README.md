@@ -43,4 +43,10 @@
   console.log(true !== false);<br>
   console.log(5 === "sders".length);
 </p>
-
+<p>
+  I can check out the if statement,like this:<br>
+  if ("The length of this string".length < 66) {<br>
+  console.log("This strings is realy short");<br>
+  }
+</p>
+</p>
